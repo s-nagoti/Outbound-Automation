@@ -1,1 +1,2 @@
-add some api functionality, and do unit testing for previous functions
+removed, uneccessary text
+added GET method for API 2
