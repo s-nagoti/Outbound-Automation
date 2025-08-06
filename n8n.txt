@@ -1,1 +1,2 @@
-this is a test for github event
+here i wrote some new code to test out
+my n8n teams automation
